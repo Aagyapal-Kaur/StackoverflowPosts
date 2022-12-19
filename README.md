@@ -7,7 +7,7 @@ Python 3.5+ required
 
 We have named our project as:
 
-The notebooks are named with respect to the domain of interest
+The notebooks are named with respect to the domain of interest.
 The acquired datasets can be found in the google drive link mentioned below:
 
 https://drive.google.com/drive/folders/13VHLj4hJd2-cuhLXKTdpF2fq66wBjuSL?usp=share_link
